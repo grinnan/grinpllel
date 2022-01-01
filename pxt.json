@@ -1,0 +1,34 @@
+{
+    "name": "grinparallel",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Untitled": "pkg:Untitled.json",
+        "cp": "pub:60992-75485-60792-39500",
+        "Freenove": "github:freenove/makecode-extension-starter-kit#v1.0.2",
+        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.12.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "Untitled.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v4.0.16",
+        "tag": "v4.0.16",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/04b1a5492fb75af626caed5601ee8d794d970dd7",
+        "target": "4.0.16",
+        "pxt": "7.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
